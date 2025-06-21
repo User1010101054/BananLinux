@@ -1,1 +1,1 @@
-Please choose the newest version of BananaLinux for better performence. If sending a bug report via GitHub fails, send it via email 792domas@gmail.com.
+This project failed. Wait for TempleMBOGOS project! It uses a solo made kernel C++ and the other stuff is Python!
